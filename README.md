@@ -12,4 +12,4 @@ This is the code for crop recomendation using machine learning
 **ph value- It is the PH value of soil
 **Rainfall: It is for moisture present in the soil. It is in mm .
 **Crop: It is the target variable for crop
-**So here the main work is to predict the type of crop that can be grown on soil on the basis of given inputs from sensors
+**So here the main work is to predict the type of crop that can be grown on soil on the basis of given inputs from sensors.
